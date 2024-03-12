@@ -1,7 +1,3 @@
-//3 questions where you have to modify pre-existing code - 5-6 points
-//question 4 and 5 write all code yourself - 8-9 points
-//understand vectors and pointers
-
 #include <iostream>
 #include <string>
 #include <iomanip>
